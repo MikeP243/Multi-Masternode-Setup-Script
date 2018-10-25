@@ -132,21 +132,13 @@ for i in `seq 1 1 $MNCOUNT`; do
   echo "masternode=1" >> DingoDollars.conf_TEMP
   echo "" >> DingoDollars.conf_TEMP
 
-  #echo "addnode=addnode=91.121.71.172" >> DingoDollars.conf_TEMP
-  #echo "addnode=addnode=109.124.213.194" >> DingoDollars.conf_TEMP
-  #echo "addnode=addnode=202.182.110.55" >> DingoDollars.conf_TEMP
-  #echo "addnode=addnode=217.115.98.185" >> DingoDollars.conf_TEMP
   #echo "addnode=addnode=54.37.16.231" >> DingoDollars.conf_TEMP
-  #echo "addnode=addnode=88.99.201.58" >> DingoDollars.conf_TEMP
-  #echo "addnode=addnode=98.226.11.139" >> DingoDollars.conf_TEMP
-  #echo "addnode=addnode=35.197.125.133" >> DingoDollars.conf_TEMP
-  #echo "addnode=addnode=149.28.53.192" >> DingoDollars.conf_TEMP
-  #echo "addnode=addnode=151.224.28.188" >> DingoDollars.conf_TEMP
-  #echo "addnode=addnode=91.121.71.172" >> DingoDollars.conf_TEMP
-  #echo "addnode=addnode=95.211.224.212" >> DingoDollars.conf_TEMP
-  #echo "addnode=addnode=104.54.217.117" >> DingoDollars.conf_TEMP
-  #echo "addnode=addnode=159.65.53.106" >> DingoDollars.conf_TEMP
-  #echo "addnode=addnode=173.249.33.136" >> DingoDollars.conf_TEMP
+  #echo "addnode=addnode=173.249.44.68" >> DingoDollars.conf_TEMP
+  #echo "addnode=addnode=173.212.217.165" >> DingoDollars.conf_TEMP
+  #echo "addnode=addnode=95.31.104.209" >> DingoDollars.conf_TEMP
+  #echo "addnode=addnode=150.129.80.244" >> DingoDollars.conf_TEMP
+  #echo "addnode=addnode=193.37.152.36" >> DingoDollars.conf_TEMP
+  #echo "addnode=addnode=80.211.142.222" >> DingoDollars.conf_TEMP
 
   echo "" >> DingoDollars.conf_TEMP
   echo "port=$PORT" >> DingoDollars.conf_TEMP
