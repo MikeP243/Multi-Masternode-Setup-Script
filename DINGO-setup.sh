@@ -108,7 +108,7 @@ for i in `seq 1 1 $MNCOUNT`; do
   read RPCPORT
 
   ALIAS=${ALIAS,,}
-  CONF_DIR=~/.DingoDollars_$ALIAS
+  CONF_DIR=~/.dingo_$ALIAS
 
   # Create scripts
   echo '#!/bin/bash' > ~/bin/DingoDollarsd_$ALIAS.sh
